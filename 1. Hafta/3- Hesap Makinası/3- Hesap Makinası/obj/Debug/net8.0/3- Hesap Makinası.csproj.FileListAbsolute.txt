@@ -1,0 +1,14 @@
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\3- Hesap Makinası\3- Hesap Makinası\bin\Debug\net8.0\3- Hesap Makinası.exe
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\3- Hesap Makinası\3- Hesap Makinası\bin\Debug\net8.0\3- Hesap Makinası.deps.json
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\3- Hesap Makinası\3- Hesap Makinası\bin\Debug\net8.0\3- Hesap Makinası.runtimeconfig.json
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\3- Hesap Makinası\3- Hesap Makinası\bin\Debug\net8.0\3- Hesap Makinası.dll
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\3- Hesap Makinası\3- Hesap Makinası\bin\Debug\net8.0\3- Hesap Makinası.pdb
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\3- Hesap Makinası\3- Hesap Makinası\obj\Debug\net8.0\3- Hesap Makinası.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\3- Hesap Makinası\3- Hesap Makinası\obj\Debug\net8.0\3- Hesap Makinası.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\3- Hesap Makinası\3- Hesap Makinası\obj\Debug\net8.0\3- Hesap Makinası.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\3- Hesap Makinası\3- Hesap Makinası\obj\Debug\net8.0\3- Hesap Makinası.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\3- Hesap Makinası\3- Hesap Makinası\obj\Debug\net8.0\3- Hesap Makinası.dll
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\3- Hesap Makinası\3- Hesap Makinası\obj\Debug\net8.0\refint\3- Hesap Makinası.dll
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\3- Hesap Makinası\3- Hesap Makinası\obj\Debug\net8.0\3- Hesap Makinası.pdb
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\3- Hesap Makinası\3- Hesap Makinası\obj\Debug\net8.0\3- Hesap Makinası.genruntimeconfig.cache
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\3- Hesap Makinası\3- Hesap Makinası\obj\Debug\net8.0\ref\3- Hesap Makinası.dll

@@ -1,0 +1,14 @@
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\4- En Büyüğü Bulma\4- En Büyüğü Bulma\bin\Debug\net8.0\4- En Büyüğü Bulma.exe
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\4- En Büyüğü Bulma\4- En Büyüğü Bulma\bin\Debug\net8.0\4- En Büyüğü Bulma.deps.json
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\4- En Büyüğü Bulma\4- En Büyüğü Bulma\bin\Debug\net8.0\4- En Büyüğü Bulma.runtimeconfig.json
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\4- En Büyüğü Bulma\4- En Büyüğü Bulma\bin\Debug\net8.0\4- En Büyüğü Bulma.dll
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\4- En Büyüğü Bulma\4- En Büyüğü Bulma\bin\Debug\net8.0\4- En Büyüğü Bulma.pdb
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\4- En Büyüğü Bulma\4- En Büyüğü Bulma\obj\Debug\net8.0\4- En Büyüğü Bulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\4- En Büyüğü Bulma\4- En Büyüğü Bulma\obj\Debug\net8.0\4- En Büyüğü Bulma.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\4- En Büyüğü Bulma\4- En Büyüğü Bulma\obj\Debug\net8.0\4- En Büyüğü Bulma.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\4- En Büyüğü Bulma\4- En Büyüğü Bulma\obj\Debug\net8.0\4- En Büyüğü Bulma.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\4- En Büyüğü Bulma\4- En Büyüğü Bulma\obj\Debug\net8.0\4- En Büyüğü Bulma.dll
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\4- En Büyüğü Bulma\4- En Büyüğü Bulma\obj\Debug\net8.0\refint\4- En Büyüğü Bulma.dll
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\4- En Büyüğü Bulma\4- En Büyüğü Bulma\obj\Debug\net8.0\4- En Büyüğü Bulma.pdb
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\4- En Büyüğü Bulma\4- En Büyüğü Bulma\obj\Debug\net8.0\4- En Büyüğü Bulma.genruntimeconfig.cache
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\4- En Büyüğü Bulma\4- En Büyüğü Bulma\obj\Debug\net8.0\ref\4- En Büyüğü Bulma.dll

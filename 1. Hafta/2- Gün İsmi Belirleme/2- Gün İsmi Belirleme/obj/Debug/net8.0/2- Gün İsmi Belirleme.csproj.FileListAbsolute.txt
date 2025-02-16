@@ -1,0 +1,14 @@
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\2- Gün İsmi Belirleme\2- Gün İsmi Belirleme\bin\Debug\net8.0\2- Gün İsmi Belirleme.exe
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\2- Gün İsmi Belirleme\2- Gün İsmi Belirleme\bin\Debug\net8.0\2- Gün İsmi Belirleme.deps.json
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\2- Gün İsmi Belirleme\2- Gün İsmi Belirleme\bin\Debug\net8.0\2- Gün İsmi Belirleme.runtimeconfig.json
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\2- Gün İsmi Belirleme\2- Gün İsmi Belirleme\bin\Debug\net8.0\2- Gün İsmi Belirleme.dll
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\2- Gün İsmi Belirleme\2- Gün İsmi Belirleme\bin\Debug\net8.0\2- Gün İsmi Belirleme.pdb
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\2- Gün İsmi Belirleme\2- Gün İsmi Belirleme\obj\Debug\net8.0\2- Gün İsmi Belirleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\2- Gün İsmi Belirleme\2- Gün İsmi Belirleme\obj\Debug\net8.0\2- Gün İsmi Belirleme.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\2- Gün İsmi Belirleme\2- Gün İsmi Belirleme\obj\Debug\net8.0\2- Gün İsmi Belirleme.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\2- Gün İsmi Belirleme\2- Gün İsmi Belirleme\obj\Debug\net8.0\2- Gün İsmi Belirleme.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\2- Gün İsmi Belirleme\2- Gün İsmi Belirleme\obj\Debug\net8.0\2- Gün İsmi Belirleme.dll
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\2- Gün İsmi Belirleme\2- Gün İsmi Belirleme\obj\Debug\net8.0\refint\2- Gün İsmi Belirleme.dll
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\2- Gün İsmi Belirleme\2- Gün İsmi Belirleme\obj\Debug\net8.0\2- Gün İsmi Belirleme.pdb
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\2- Gün İsmi Belirleme\2- Gün İsmi Belirleme\obj\Debug\net8.0\2- Gün İsmi Belirleme.genruntimeconfig.cache
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\2- Gün İsmi Belirleme\2- Gün İsmi Belirleme\obj\Debug\net8.0\ref\2- Gün İsmi Belirleme.dll

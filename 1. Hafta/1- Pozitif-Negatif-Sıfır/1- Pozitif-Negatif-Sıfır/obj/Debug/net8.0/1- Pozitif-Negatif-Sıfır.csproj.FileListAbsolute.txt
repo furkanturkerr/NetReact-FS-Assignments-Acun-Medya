@@ -1,0 +1,14 @@
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\1- Pozitif-Negatif-Sıfır\1- Pozitif-Negatif-Sıfır\bin\Debug\net8.0\1- Pozitif-Negatif-Sıfır.exe
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\1- Pozitif-Negatif-Sıfır\1- Pozitif-Negatif-Sıfır\bin\Debug\net8.0\1- Pozitif-Negatif-Sıfır.deps.json
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\1- Pozitif-Negatif-Sıfır\1- Pozitif-Negatif-Sıfır\bin\Debug\net8.0\1- Pozitif-Negatif-Sıfır.runtimeconfig.json
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\1- Pozitif-Negatif-Sıfır\1- Pozitif-Negatif-Sıfır\bin\Debug\net8.0\1- Pozitif-Negatif-Sıfır.dll
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\1- Pozitif-Negatif-Sıfır\1- Pozitif-Negatif-Sıfır\bin\Debug\net8.0\1- Pozitif-Negatif-Sıfır.pdb
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\1- Pozitif-Negatif-Sıfır\1- Pozitif-Negatif-Sıfır\obj\Debug\net8.0\1- Pozitif-Negatif-Sıfır.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\1- Pozitif-Negatif-Sıfır\1- Pozitif-Negatif-Sıfır\obj\Debug\net8.0\1- Pozitif-Negatif-Sıfır.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\1- Pozitif-Negatif-Sıfır\1- Pozitif-Negatif-Sıfır\obj\Debug\net8.0\1- Pozitif-Negatif-Sıfır.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\1- Pozitif-Negatif-Sıfır\1- Pozitif-Negatif-Sıfır\obj\Debug\net8.0\1- Pozitif-Negatif-Sıfır.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\1- Pozitif-Negatif-Sıfır\1- Pozitif-Negatif-Sıfır\obj\Debug\net8.0\1- Pozitif-Negatif-Sıfır.dll
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\1- Pozitif-Negatif-Sıfır\1- Pozitif-Negatif-Sıfır\obj\Debug\net8.0\refint\1- Pozitif-Negatif-Sıfır.dll
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\1- Pozitif-Negatif-Sıfır\1- Pozitif-Negatif-Sıfır\obj\Debug\net8.0\1- Pozitif-Negatif-Sıfır.pdb
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\1- Pozitif-Negatif-Sıfır\1- Pozitif-Negatif-Sıfır\obj\Debug\net8.0\1- Pozitif-Negatif-Sıfır.genruntimeconfig.cache
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\1. Hafta\1- Pozitif-Negatif-Sıfır\1- Pozitif-Negatif-Sıfır\obj\Debug\net8.0\ref\1- Pozitif-Negatif-Sıfır.dll
