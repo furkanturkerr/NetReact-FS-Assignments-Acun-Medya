@@ -1,0 +1,47 @@
+﻿Console.WriteLine("Hello, World!");
+
+
+//veritables    
+
+string productName = "casper excalibur ";
+int productPrice = 269; //32 bit // 2 byte 
+long productPrice1 = 269; // 64 bit // 8 byte 
+byte produuctPrice2 = 255; //8 bit
+short productPrice3 = 32767;
+
+
+double productPrice4 = 268.99; 
+float productPrice5 = 268.99f;
+decimal productPrice6 = 268.99m;
+char productPrice7 = 'A';
+
+Console.WriteLine(productName);
+Console.WriteLine(productName);
+Console.WriteLine(productName);
+Console.WriteLine(productPrice);
+Console.WriteLine(produuctPrice2);
+Console.WriteLine(productPrice3);
+Console.WriteLine(productPrice1);
+Console.WriteLine(productPrice4);
+Console.WriteLine(productPrice5);
+Console.WriteLine(productPrice6);
+Console.WriteLine(productPrice7);
+
+int number1 = 10;
+int number2 = 20;
+
+if(number1 < number2)
+{
+    Console.WriteLine(number2 + " büyüktür");
+}
+else if (number1 > number2)
+{
+    Console.WriteLine(number1 + " büyüktür");
+}
+else
+{
+    Console.WriteLine("sayılar eşittir");
+}
+
+
+Console.ReadKey();
