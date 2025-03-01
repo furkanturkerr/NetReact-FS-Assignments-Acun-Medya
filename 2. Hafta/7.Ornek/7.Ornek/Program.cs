@@ -7,7 +7,7 @@
         string[] dizi = new string[1];
         string[] yenidizi = new string[5];
 
-        Console.Write("Kelime gir");
+        Console.Write("Kelime gir: ");
         dizi[0] = Console.ReadLine(); 
 
         int diziboyutu = 1;

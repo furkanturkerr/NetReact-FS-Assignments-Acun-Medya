@@ -1,0 +1,15 @@
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\3. Hafta\Ders\Ders\bin\Debug\net8.0\Ders.exe
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\3. Hafta\Ders\Ders\bin\Debug\net8.0\Ders.deps.json
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\3. Hafta\Ders\Ders\bin\Debug\net8.0\Ders.runtimeconfig.json
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\3. Hafta\Ders\Ders\bin\Debug\net8.0\Ders.dll
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\3. Hafta\Ders\Ders\bin\Debug\net8.0\Ders.pdb
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\3. Hafta\Ders\Ders\obj\Debug\net8.0\Ders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\3. Hafta\Ders\Ders\obj\Debug\net8.0\Ders.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\3. Hafta\Ders\Ders\obj\Debug\net8.0\Ders.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\3. Hafta\Ders\Ders\obj\Debug\net8.0\Ders.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\3. Hafta\Ders\Ders\obj\Debug\net8.0\Ders.sourcelink.json
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\3. Hafta\Ders\Ders\obj\Debug\net8.0\Ders.dll
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\3. Hafta\Ders\Ders\obj\Debug\net8.0\refint\Ders.dll
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\3. Hafta\Ders\Ders\obj\Debug\net8.0\Ders.pdb
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\3. Hafta\Ders\Ders\obj\Debug\net8.0\Ders.genruntimeconfig.cache
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\3. Hafta\Ders\Ders\obj\Debug\net8.0\ref\Ders.dll

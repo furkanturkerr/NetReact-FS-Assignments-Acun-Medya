@@ -1,0 +1,15 @@
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\3. Hafta\10.Ornek\10.Ornek\bin\Debug\net8.0\10.Ornek.exe
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\3. Hafta\10.Ornek\10.Ornek\bin\Debug\net8.0\10.Ornek.deps.json
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\3. Hafta\10.Ornek\10.Ornek\bin\Debug\net8.0\10.Ornek.runtimeconfig.json
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\3. Hafta\10.Ornek\10.Ornek\bin\Debug\net8.0\10.Ornek.dll
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\3. Hafta\10.Ornek\10.Ornek\bin\Debug\net8.0\10.Ornek.pdb
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\3. Hafta\10.Ornek\10.Ornek\obj\Debug\net8.0\10.Ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\3. Hafta\10.Ornek\10.Ornek\obj\Debug\net8.0\10.Ornek.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\3. Hafta\10.Ornek\10.Ornek\obj\Debug\net8.0\10.Ornek.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\3. Hafta\10.Ornek\10.Ornek\obj\Debug\net8.0\10.Ornek.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\3. Hafta\10.Ornek\10.Ornek\obj\Debug\net8.0\10.Ornek.sourcelink.json
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\3. Hafta\10.Ornek\10.Ornek\obj\Debug\net8.0\10.Ornek.dll
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\3. Hafta\10.Ornek\10.Ornek\obj\Debug\net8.0\refint\10.Ornek.dll
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\3. Hafta\10.Ornek\10.Ornek\obj\Debug\net8.0\10.Ornek.pdb
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\3. Hafta\10.Ornek\10.Ornek\obj\Debug\net8.0\10.Ornek.genruntimeconfig.cache
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\3. Hafta\10.Ornek\10.Ornek\obj\Debug\net8.0\ref\10.Ornek.dll
