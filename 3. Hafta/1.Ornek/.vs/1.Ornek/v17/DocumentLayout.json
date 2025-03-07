@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\3. Hafta\\1.Ornek\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A7959A2-5CBA-427D-8438-B5714EBC77B3}|1.Ornek\\1.Ornek.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-\u00F6devleri\\3. hafta\\1.ornek\\1.ornek\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A7959A2-5CBA-427D-8438-B5714EBC77B3}|1.Ornek\\1.Ornek.csproj|solutionrelative:1.ornek\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A7959A2-5CBA-427D-8438-B5714EBC77B3}|1.Ornek\\1.Ornek.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-\u00F6devleri\\3. hafta\\1.ornek\\1.ornek\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A7959A2-5CBA-427D-8438-B5714EBC77B3}|1.Ornek\\1.Ornek.csproj|solutionrelative:1.ornek\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A7959A2-5CBA-427D-8438-B5714EBC77B3}|1.Ornek\\1.Ornek.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-\u00F6devleri\\3. hafta\\1.ornek\\1.ornek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A7959A2-5CBA-427D-8438-B5714EBC77B3}|1.Ornek\\1.Ornek.csproj|solutionrelative:1.ornek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A7959A2-5CBA-427D-8438-B5714EBC77B3}|1.Ornek\\1.Ornek.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-\u00F6devleri\\3. hafta\\1.ornek\\1.ornek\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A7959A2-5CBA-427D-8438-B5714EBC77B3}|1.Ornek\\1.Ornek.csproj|solutionrelative:1.ornek\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A7959A2-5CBA-427D-8438-B5714EBC77B3}|1.Ornek\\1.Ornek.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-\u00F6devleri\\3. hafta\\1.ornek\\1.ornek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A7959A2-5CBA-427D-8438-B5714EBC77B3}|1.Ornek\\1.Ornek.csproj|solutionrelative:1.ornek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A7959A2-5CBA-427D-8438-B5714EBC77B3}|1.Ornek\\1.Ornek.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-\u00F6devleri\\3. hafta\\1.ornek\\1.ornek\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A7959A2-5CBA-427D-8438-B5714EBC77B3}|1.Ornek\\1.Ornek.csproj|solutionrelative:1.ornek\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A7959A2-5CBA-427D-8438-B5714EBC77B3}|1.Ornek\\1.Ornek.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-\u00F6devleri\\3. hafta\\1.ornek\\1.ornek\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A7959A2-5CBA-427D-8438-B5714EBC77B3}|1.Ornek\\1.Ornek.csproj|solutionrelative:1.ornek\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Manager.cs",
               "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\3. Hafta\\1.Ornek\\1.Ornek\\Manager.cs",
               "RelativeDocumentMoniker": "1.Ornek\\Manager.cs",
               "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\3. Hafta\\1.Ornek\\1.Ornek\\Manager.cs",
               "RelativeToolTip": "1.Ornek\\Manager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T16:15:05.832Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Developer.cs",
               "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\3. Hafta\\1.Ornek\\1.Ornek\\Developer.cs",
               "RelativeDocumentMoniker": "1.Ornek\\Developer.cs",
               "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\3. Hafta\\1.Ornek\\1.Ornek\\Developer.cs",
               "RelativeToolTip": "1.Ornek\\Developer.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T16:15:55.024Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\3. Hafta\\1.Ornek\\1.Ornek\\Employee.cs",
               "RelativeDocumentMoniker": "1.Ornek\\Employee.cs",
               "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\3. Hafta\\1.Ornek\\1.Ornek\\Employee.cs",
               "RelativeToolTip": "1.Ornek\\Employee.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAkwB0AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T16:12:42.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\3. Hafta\\1.Ornek\\1.Ornek\\Program.cs",
               "RelativeDocumentMoniker": "1.Ornek\\Program.cs",
               "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\3. Hafta\\1.Ornek\\1.Ornek\\Program.cs",
               "RelativeToolTip": "1.Ornek\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T16:09:18.651Z",
               "EditorCaption": ""

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1.Ornek")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ee56bc6cd8ce347658ecfef5384fab017aeee1b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72babf216b1fd9dbb5af0d3a84751469a3ce40bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("1.Ornek")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1.Ornek")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
