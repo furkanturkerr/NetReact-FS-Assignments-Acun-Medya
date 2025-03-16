@@ -1,0 +1,15 @@
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\Odev\Ocak2\Ocak - 2\Ocak - 2\bin\Debug\net8.0\Ocak - 2.exe
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\Odev\Ocak2\Ocak - 2\Ocak - 2\bin\Debug\net8.0\Ocak - 2.deps.json
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\Odev\Ocak2\Ocak - 2\Ocak - 2\bin\Debug\net8.0\Ocak - 2.runtimeconfig.json
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\Odev\Ocak2\Ocak - 2\Ocak - 2\bin\Debug\net8.0\Ocak - 2.dll
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\Odev\Ocak2\Ocak - 2\Ocak - 2\bin\Debug\net8.0\Ocak - 2.pdb
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\Odev\Ocak2\Ocak - 2\Ocak - 2\obj\Debug\net8.0\Ocak - 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\Odev\Ocak2\Ocak - 2\Ocak - 2\obj\Debug\net8.0\Ocak - 2.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\Odev\Ocak2\Ocak - 2\Ocak - 2\obj\Debug\net8.0\Ocak - 2.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\Odev\Ocak2\Ocak - 2\Ocak - 2\obj\Debug\net8.0\Ocak - 2.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\Odev\Ocak2\Ocak - 2\Ocak - 2\obj\Debug\net8.0\Ocak - 2.sourcelink.json
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\Odev\Ocak2\Ocak - 2\Ocak - 2\obj\Debug\net8.0\Ocak - 2.dll
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\Odev\Ocak2\Ocak - 2\Ocak - 2\obj\Debug\net8.0\refint\Ocak - 2.dll
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\Odev\Ocak2\Ocak - 2\Ocak - 2\obj\Debug\net8.0\Ocak - 2.pdb
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\Odev\Ocak2\Ocak - 2\Ocak - 2\obj\Debug\net8.0\Ocak - 2.genruntimeconfig.cache
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-Ödevleri\Odev\Ocak2\Ocak - 2\Ocak - 2\obj\Debug\net8.0\ref\Ocak - 2.dll
