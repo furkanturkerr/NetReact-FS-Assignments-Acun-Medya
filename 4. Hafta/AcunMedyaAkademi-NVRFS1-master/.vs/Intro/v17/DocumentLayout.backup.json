@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\4. Hafta\\AcunMedyaAkademi-NVRFS1-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81F614DF-4C0E-4344-BFD5-C481AD47143A}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-\u00F6devleri\\4. hafta\\acunmedyaakademi-nvrfs1-master\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F614DF-4C0E-4344-BFD5-C481AD47143A}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02036870-08C1-46C1-85C4-7C6700432AFD}|Business\\Business.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-\u00F6devleri\\4. hafta\\acunmedyaakademi-nvrfs1-master\\business\\abstracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02036870-08C1-46C1-85C4-7C6700432AFD}|Business\\Business.csproj|solutionrelative:business\\abstracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\4. Hafta\\AcunMedyaAkademi-NVRFS1-master\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\4. Hafta\\AcunMedyaAkademi-NVRFS1-master\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T22:25:29.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\4. Hafta\\AcunMedyaAkademi-NVRFS1-master\\Business\\Abstracts\\IProductService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstracts\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\4. Hafta\\AcunMedyaAkademi-NVRFS1-master\\Business\\Abstracts\\IProductService.cs",
+              "RelativeToolTip": "Business\\Abstracts\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T22:25:20.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
