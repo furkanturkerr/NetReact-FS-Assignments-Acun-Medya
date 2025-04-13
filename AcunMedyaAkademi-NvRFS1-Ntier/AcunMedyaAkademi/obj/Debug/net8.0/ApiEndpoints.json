@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "AcunMedyaAkademi.Conrolers.BrandsController",
+    "Method": "GetBrands",
+    "RelativePath": "api/Brands/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

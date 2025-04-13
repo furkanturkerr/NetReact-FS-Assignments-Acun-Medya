@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Furkan\\Desktop\\AcunMedyaAkademi-NvRFS1-Ntier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE30D064-493F-4DCF-8AC9-9B09342D5CD7}|AcunMedyaAkademi\\AcunMedyaAkademi.csproj|c:\\users\\furkan\\desktop\\acunmedyaakademi-nvrfs1-ntier\\acunmedyaakademi\\conrolers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE30D064-493F-4DCF-8AC9-9B09342D5CD7}|AcunMedyaAkademi\\AcunMedyaAkademi.csproj|solutionrelative:acunmedyaakademi\\conrolers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE30D064-493F-4DCF-8AC9-9B09342D5CD7}|AcunMedyaAkademi\\AcunMedyaAkademi.csproj|c:\\users\\furkan\\desktop\\acunmedyaakademi-nvrfs1-ntier\\acunmedyaakademi\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE30D064-493F-4DCF-8AC9-9B09342D5CD7}|AcunMedyaAkademi\\AcunMedyaAkademi.csproj|solutionrelative:acunmedyaakademi\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE30D064-493F-4DCF-8AC9-9B09342D5CD7}|AcunMedyaAkademi\\AcunMedyaAkademi.csproj|c:\\users\\furkan\\desktop\\acunmedyaakademi-nvrfs1-ntier\\acunmedyaakademi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE30D064-493F-4DCF-8AC9-9B09342D5CD7}|AcunMedyaAkademi\\AcunMedyaAkademi.csproj|solutionrelative:acunmedyaakademi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE30D064-493F-4DCF-8AC9-9B09342D5CD7}|AcunMedyaAkademi\\AcunMedyaAkademi.csproj|c:\\users\\furkan\\desktop\\acunmedyaakademi-nvrfs1-ntier\\acunmedyaakademi\\acunmedyaakademi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FE30D064-493F-4DCF-8AC9-9B09342D5CD7}|AcunMedyaAkademi\\AcunMedyaAkademi.csproj|solutionrelative:acunmedyaakademi\\acunmedyaakademi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE30D064-493F-4DCF-8AC9-9B09342D5CD7}|AcunMedyaAkademi\\AcunMedyaAkademi.csproj|c:\\users\\furkan\\desktop\\acunmedyaakademi-nvrfs1-ntier\\acunmedyaakademi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE30D064-493F-4DCF-8AC9-9B09342D5CD7}|AcunMedyaAkademi\\AcunMedyaAkademi.csproj|solutionrelative:acunmedyaakademi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE30D064-493F-4DCF-8AC9-9B09342D5CD7}|AcunMedyaAkademi\\AcunMedyaAkademi.csproj|c:\\users\\furkan\\desktop\\acunmedyaakademi-nvrfs1-ntier\\acunmedyaakademi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE30D064-493F-4DCF-8AC9-9B09342D5CD7}|AcunMedyaAkademi\\AcunMedyaAkademi.csproj|solutionrelative:acunmedyaakademi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AcunMedyaAkademi.csproj",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\AcunMedyaAkademi-NvRFS1-Ntier\\AcunMedyaAkademi\\AcunMedyaAkademi.csproj",
+              "RelativeDocumentMoniker": "AcunMedyaAkademi\\AcunMedyaAkademi.csproj",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\AcunMedyaAkademi-NvRFS1-Ntier\\AcunMedyaAkademi\\AcunMedyaAkademi.csproj",
+              "RelativeToolTip": "AcunMedyaAkademi\\AcunMedyaAkademi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-13T12:17:01.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\AcunMedyaAkademi-NvRFS1-Ntier\\AcunMedyaAkademi\\appsettings.json",
+              "RelativeDocumentMoniker": "AcunMedyaAkademi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\AcunMedyaAkademi-NvRFS1-Ntier\\AcunMedyaAkademi\\appsettings.json",
+              "RelativeToolTip": "AcunMedyaAkademi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T11:59:47.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\AcunMedyaAkademi-NvRFS1-Ntier\\AcunMedyaAkademi\\Conrolers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "AcunMedyaAkademi\\Conrolers\\BrandsController.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\AcunMedyaAkademi-NvRFS1-Ntier\\AcunMedyaAkademi\\Conrolers\\BrandsController.cs",
+              "RelativeToolTip": "AcunMedyaAkademi\\Conrolers\\BrandsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T11:55:04.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\AcunMedyaAkademi-NvRFS1-Ntier\\AcunMedyaAkademi\\Brand.cs",
+              "RelativeDocumentMoniker": "AcunMedyaAkademi\\Brand.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\AcunMedyaAkademi-NvRFS1-Ntier\\AcunMedyaAkademi\\Brand.cs",
+              "RelativeToolTip": "AcunMedyaAkademi\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:24:32.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\AcunMedyaAkademi-NvRFS1-Ntier\\AcunMedyaAkademi\\Program.cs",
+              "RelativeDocumentMoniker": "AcunMedyaAkademi\\Program.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\AcunMedyaAkademi-NvRFS1-Ntier\\AcunMedyaAkademi\\Program.cs",
+              "RelativeToolTip": "AcunMedyaAkademi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T07:55:04.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\AcunMedyaAkademi-NvRFS1-Ntier\\AcunMedyaAkademi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AcunMedyaAkademi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\AcunMedyaAkademi-NvRFS1-Ntier\\AcunMedyaAkademi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AcunMedyaAkademi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-12T07:53:27.028Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
