@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AcunMedyaAkademi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2252a154ae839f91a7c33ee1fdbab00dd9289889")]
 [assembly: System.Reflection.AssemblyProductAttribute("AcunMedyaAkademi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AcunMedyaAkademi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
