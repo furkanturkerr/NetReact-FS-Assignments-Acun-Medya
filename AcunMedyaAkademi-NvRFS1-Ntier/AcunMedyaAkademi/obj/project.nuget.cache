@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ChGofY4nKYM=",
+  "dgSpecHash": "GAKyKMPnJ3o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Furkan\\Desktop\\AcunMedyaAkademi-NvRFS1-Ntier\\AcunMedyaAkademi\\AcunMedyaAkademi.csproj",
+  "projectFilePath": "C:\\Users\\Furkan\\Desktop\\Net&React-Full-Stack-Ödevleri\\AcunMedyaAkademi-NvRFS1-Ntier\\AcunMedyaAkademi\\AcunMedyaAkademi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Furkan\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Furkan\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

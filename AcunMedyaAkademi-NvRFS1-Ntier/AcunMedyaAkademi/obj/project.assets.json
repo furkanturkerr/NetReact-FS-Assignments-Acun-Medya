@@ -2087,11 +2087,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Furkan\\Desktop\\AcunMedyaAkademi-NvRFS1-Ntier\\AcunMedyaAkademi\\AcunMedyaAkademi.csproj",
+      "projectUniqueName": "C:\\Users\\Furkan\\Desktop\\Net&React-Full-Stack-Ödevleri\\AcunMedyaAkademi-NvRFS1-Ntier\\AcunMedyaAkademi\\AcunMedyaAkademi.csproj",
       "projectName": "AcunMedyaAkademi",
-      "projectPath": "C:\\Users\\Furkan\\Desktop\\AcunMedyaAkademi-NvRFS1-Ntier\\AcunMedyaAkademi\\AcunMedyaAkademi.csproj",
+      "projectPath": "C:\\Users\\Furkan\\Desktop\\Net&React-Full-Stack-Ödevleri\\AcunMedyaAkademi-NvRFS1-Ntier\\AcunMedyaAkademi\\AcunMedyaAkademi.csproj",
       "packagesPath": "C:\\Users\\Furkan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Furkan\\Desktop\\AcunMedyaAkademi-NvRFS1-Ntier\\AcunMedyaAkademi\\obj\\",
+      "outputPath": "C:\\Users\\Furkan\\Desktop\\Net&React-Full-Stack-Ödevleri\\AcunMedyaAkademi-NvRFS1-Ntier\\AcunMedyaAkademi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
