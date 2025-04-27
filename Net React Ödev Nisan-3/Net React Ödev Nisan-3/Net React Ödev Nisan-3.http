@@ -1,0 +1,6 @@
+@Net_React_Ödev_Nisan_3_HostAddress = http://localhost:5024
+
+GET {{Net_React_Ödev_Nisan_3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
