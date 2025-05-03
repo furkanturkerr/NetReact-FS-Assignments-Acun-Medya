@@ -146,3 +146,10 @@ C:\Users\Furkan\Desktop\Net&React-Full-Stack-odevleri\AcunMedyaAkademi-NvRFS1-Nt
 C:\Users\Furkan\Desktop\Net&React-Full-Stack-odevleri\AcunMedyaAkademi-NvRFS1-Ntier\WebAPI\obj\Debug\net8.0\WebAPI.pdb
 C:\Users\Furkan\Desktop\Net&React-Full-Stack-odevleri\AcunMedyaAkademi-NvRFS1-Ntier\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
 C:\Users\Furkan\Desktop\Net&React-Full-Stack-odevleri\AcunMedyaAkademi-NvRFS1-Ntier\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-odevleri\AcunMedyaAkademi-NvRFS1-Ntier\WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-odevleri\AcunMedyaAkademi-NvRFS1-Ntier\WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-odevleri\AcunMedyaAkademi-NvRFS1-Ntier\WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-odevleri\AcunMedyaAkademi-NvRFS1-Ntier\WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-odevleri\AcunMedyaAkademi-NvRFS1-Ntier\WebAPI\bin\Debug\net8.0\Business.dll
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-odevleri\AcunMedyaAkademi-NvRFS1-Ntier\WebAPI\bin\Debug\net8.0\Business.pdb
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-odevleri\AcunMedyaAkademi-NvRFS1-Ntier\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs

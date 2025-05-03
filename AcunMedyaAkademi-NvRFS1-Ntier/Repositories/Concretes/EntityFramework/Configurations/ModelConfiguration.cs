@@ -13,9 +13,9 @@ namespace Repositories.Concretes.EntityFramework.Configurations
             builder.HasKey(a => a.Id);
 
             builder.Property(a => a.Id).HasColumnName("Id").IsRequired();
-            builder.Property(a => a.Id).HasColumnName("BrandId").IsRequired();
+            builder.Property(a => a.BrandId).HasColumnName("BrandId").IsRequired();
 
-            builder.Property(a => a.Id).HasColumnName("Name").IsRequired().HasMaxLength(20);
+            builder.Property(a => a.Name).HasColumnName("Name").IsRequired().HasMaxLength(20);
 
             builder.HasOne(a => a.Brand);
 

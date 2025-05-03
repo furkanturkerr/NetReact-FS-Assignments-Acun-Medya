@@ -11,3 +11,10 @@ C:\Users\Furkan\Desktop\Net&React-Full-Stack-odevleri\AcunMedyaAkademi-NvRFS1-Nt
 C:\Users\Furkan\Desktop\Net&React-Full-Stack-odevleri\AcunMedyaAkademi-NvRFS1-Ntier\Business\obj\Debug\net8.0\refint\Business.dll
 C:\Users\Furkan\Desktop\Net&React-Full-Stack-odevleri\AcunMedyaAkademi-NvRFS1-Ntier\Business\obj\Debug\net8.0\Business.pdb
 C:\Users\Furkan\Desktop\Net&React-Full-Stack-odevleri\AcunMedyaAkademi-NvRFS1-Ntier\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-odevleri\AcunMedyaAkademi-NvRFS1-Ntier\Business\bin\Debug\net8.0\Core.dll
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-odevleri\AcunMedyaAkademi-NvRFS1-Ntier\Business\bin\Debug\net8.0\Entities.dll
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-odevleri\AcunMedyaAkademi-NvRFS1-Ntier\Business\bin\Debug\net8.0\Repositories.dll
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-odevleri\AcunMedyaAkademi-NvRFS1-Ntier\Business\bin\Debug\net8.0\Entities.pdb
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-odevleri\AcunMedyaAkademi-NvRFS1-Ntier\Business\bin\Debug\net8.0\Repositories.pdb
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-odevleri\AcunMedyaAkademi-NvRFS1-Ntier\Business\bin\Debug\net8.0\Core.pdb
+C:\Users\Furkan\Desktop\Net&React-Full-Stack-odevleri\AcunMedyaAkademi-NvRFS1-Ntier\Business\obj\Debug\net8.0\Business.csproj.Up2Date

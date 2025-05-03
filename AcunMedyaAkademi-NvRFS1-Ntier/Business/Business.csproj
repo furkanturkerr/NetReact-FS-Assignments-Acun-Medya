@@ -10,4 +10,9 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.15" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Entities\Entities\Entities.csproj" />
+    <ProjectReference Include="..\Repositories\Repositories.csproj" />
+  </ItemGroup>
+
 </Project>
