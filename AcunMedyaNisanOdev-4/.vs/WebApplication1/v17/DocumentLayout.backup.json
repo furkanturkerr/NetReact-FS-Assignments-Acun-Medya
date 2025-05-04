@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Yeni klas\u00F6r (2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05A84C47-FAFE-43E4-921D-D59691FB8AE0}|Repositories\\Repositories.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-odevleri\\yeni klas\u00F6r (2)\\repositories\\interfaces\\iblacklistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A84C47-FAFE-43E4-921D-D59691FB8AE0}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interfaces\\iblacklistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A84C47-FAFE-43E4-921D-D59691FB8AE0}|Repositories\\Repositories.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-odevleri\\yeni klas\u00F6r (2)\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A84C47-FAFE-43E4-921D-D59691FB8AE0}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Yeni klas\u00F6r (2)\\Repositories\\Implementations\\Repository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\Repository.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Yeni klas\u00F6r (2)\\Repositories\\Implementations\\Repository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:21:51.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IBlacklistRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Yeni klas\u00F6r (2)\\Repositories\\Interfaces\\IBlacklistRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IBlacklistRepository.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Yeni klas\u00F6r (2)\\Repositories\\Interfaces\\IBlacklistRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IBlacklistRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:21:35.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
