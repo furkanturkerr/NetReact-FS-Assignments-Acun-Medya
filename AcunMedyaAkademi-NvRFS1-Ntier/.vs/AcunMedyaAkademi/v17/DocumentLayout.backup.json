@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\AcunMedyaAkademi-NvRFS1-Ntier\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{17DF5113-7E8D-42BB-B0DD-49F1E6602848}|WebAPI\\WebAPI.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-odevleri\\acunmedyaakademi-nvrfs1-ntier\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17DF5113-7E8D-42BB-B0DD-49F1E6602848}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DF5113-7E8D-42BB-B0DD-49F1E6602848}|WebAPI\\WebAPI.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-odevleri\\acunmedyaakademi-nvrfs1-ntier\\webapi\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DF5113-7E8D-42BB-B0DD-49F1E6602848}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{178207B5-9597-4E0C-98B1-4DAC39CCB044}|Core\\Core.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-odevleri\\acunmedyaakademi-nvrfs1-ntier\\core\\repositories\\efrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{178207B5-9597-4E0C-98B1-4DAC39CCB044}|Core\\Core.csproj|solutionrelative:core\\repositories\\efrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -70,11 +78,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\AcunMedyaAkademi-NvRFS1-Ntier\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\AcunMedyaAkademi-NvRFS1-Ntier\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-03T15:39:59.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\AcunMedyaAkademi-NvRFS1-Ntier\\WebAPI\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\AcunMedyaAkademi-NvRFS1-Ntier\\WebAPI\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T15:39:53.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "BrandRepository.cs",
               "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\AcunMedyaAkademi-NvRFS1-Ntier\\Repositories\\Concretes\\BrandRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Concretes\\BrandRepository.cs",
@@ -82,12 +119,11 @@
               "RelativeToolTip": "Repositories\\Concretes\\BrandRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T14:35:55.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T14:35:55.294Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\AcunMedyaAkademi-NvRFS1-Ntier\\WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "WebAPI\\Program.cs",
@@ -95,12 +131,11 @@
               "RelativeToolTip": "WebAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T14:35:43.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T14:35:43.237Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Brand.cs",
               "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\AcunMedyaAkademi-NvRFS1-Ntier\\Entities\\Entities\\Brand.cs",
               "RelativeDocumentMoniker": "Entities\\Entities\\Brand.cs",
@@ -108,12 +143,11 @@
               "RelativeToolTip": "Entities\\Entities\\Brand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T14:09:11.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T14:09:11.363Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\AcunMedyaAkademi-NvRFS1-Ntier\\Entities\\Entities\\Car.cs",
               "RelativeDocumentMoniker": "Entities\\Entities\\Car.cs",
@@ -121,12 +155,11 @@
               "RelativeToolTip": "Entities\\Entities\\Car.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T14:09:09.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T14:09:09.531Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Model.cs",
               "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\AcunMedyaAkademi-NvRFS1-Ntier\\Entities\\Entities\\Model.cs",
               "RelativeDocumentMoniker": "Entities\\Entities\\Model.cs",
@@ -134,16 +167,11 @@
               "RelativeToolTip": "Entities\\Entities\\Model.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T14:09:06.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "WhenOpened": "2025-05-03T14:09:06.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "BaseEntitiy.cs",
               "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\AcunMedyaAkademi-NvRFS1-Ntier\\Core\\Entities\\BaseEntitiy.cs",
               "RelativeDocumentMoniker": "Core\\Entities\\BaseEntitiy.cs",
@@ -151,12 +179,11 @@
               "RelativeToolTip": "Core\\Entities\\BaseEntitiy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T14:03:28.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T14:03:28.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\AcunMedyaAkademi-NvRFS1-Ntier\\Core\\Repositories\\IRepository.cs",
               "RelativeDocumentMoniker": "Core\\Repositories\\IRepository.cs",
@@ -164,12 +191,11 @@
               "RelativeToolTip": "Core\\Repositories\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T14:03:11.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T14:03:11.801Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "IQuery.cs",
               "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\AcunMedyaAkademi-NvRFS1-Ntier\\Core\\Repositories\\IQuery.cs",
               "RelativeDocumentMoniker": "Core\\Repositories\\IQuery.cs",
@@ -177,25 +203,23 @@
               "RelativeToolTip": "Core\\Repositories\\IQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T14:03:09.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T14:03:09.017Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "EfRepositoryBase.cs",
               "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\AcunMedyaAkademi-NvRFS1-Ntier\\Core\\Repositories\\EfRepositoryBase.cs",
               "RelativeDocumentMoniker": "Core\\Repositories\\EfRepositoryBase.cs",
-              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\AcunMedyaAkademi-NvRFS1-Ntier\\Core\\Repositories\\EfRepositoryBase.cs*",
-              "RelativeToolTip": "Core\\Repositories\\EfRepositoryBase.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\AcunMedyaAkademi-NvRFS1-Ntier\\Core\\Repositories\\EfRepositoryBase.cs",
+              "RelativeToolTip": "Core\\Repositories\\EfRepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T14:03:07.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T14:03:07.018Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "EfRepositoryBase.cs",
               "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\AcunMedyaAkademi-NvRFS1-Ntier\\Core\\Repositories\\EntitiyFramework\\EfRepositoryBase.cs",
               "RelativeDocumentMoniker": "Core\\Repositories\\EntitiyFramework\\EfRepositoryBase.cs",
@@ -203,12 +227,11 @@
               "RelativeToolTip": "Core\\Repositories\\EntitiyFramework\\EfRepositoryBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T14:02:59.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T14:02:59.042Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "BaseDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\AcunMedyaAkademi-NvRFS1-Ntier\\Repositories\\Concretes\\EntityFramework\\Contexts\\BaseDbContext.cs",
               "RelativeDocumentMoniker": "Repositories\\Concretes\\EntityFramework\\Contexts\\BaseDbContext.cs",
@@ -216,12 +239,11 @@
               "RelativeToolTip": "Repositories\\Concretes\\EntityFramework\\Contexts\\BaseDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:16:51.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T13:16:51.227Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "ModelConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\AcunMedyaAkademi-NvRFS1-Ntier\\Repositories\\Concretes\\EntityFramework\\Configurations\\ModelConfiguration.cs",
               "RelativeDocumentMoniker": "Repositories\\Concretes\\EntityFramework\\Configurations\\ModelConfiguration.cs",
@@ -229,12 +251,11 @@
               "RelativeToolTip": "Repositories\\Concretes\\EntityFramework\\Configurations\\ModelConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:16:36.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T13:16:36.829Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "CardConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\AcunMedyaAkademi-NvRFS1-Ntier\\Repositories\\Concretes\\EntityFramework\\Configurations\\CardConfiguration.cs",
               "RelativeDocumentMoniker": "Repositories\\Concretes\\EntityFramework\\Configurations\\CardConfiguration.cs",
@@ -242,12 +263,11 @@
               "RelativeToolTip": "Repositories\\Concretes\\EntityFramework\\Configurations\\CardConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:16:35.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T13:16:35.326Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "BrandConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\AcunMedyaAkademi-NvRFS1-Ntier\\Repositories\\Concretes\\EntityFramework\\Configurations\\BrandConfiguration.cs",
               "RelativeDocumentMoniker": "Repositories\\Concretes\\EntityFramework\\Configurations\\BrandConfiguration.cs",
@@ -255,12 +275,11 @@
               "RelativeToolTip": "Repositories\\Concretes\\EntityFramework\\Configurations\\BrandConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:16:34.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T13:16:34.088Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "IBrandRepository.cs",
               "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\AcunMedyaAkademi-NvRFS1-Ntier\\Repositories\\Abstracts\\IBrandRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Abstracts\\IBrandRepository.cs",
@@ -268,8 +287,7 @@
               "RelativeToolTip": "Repositories\\Abstracts\\IBrandRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T13:15:58.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T13:15:58.845Z"
             }
           ]
         }

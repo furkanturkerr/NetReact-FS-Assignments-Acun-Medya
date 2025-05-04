@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Furkan\\Desktop\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C9E05B2-6D17-4F09-A1B7-3956EDC0287B}|WebApplication1\\WebApplication1.csproj|c:\\users\\furkan\\desktop\\webapplication1\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C9E05B2-6D17-4F09-A1B7-3956EDC0287B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C9E05B2-6D17-4F09-A1B7-3956EDC0287B}|WebApplication1\\WebApplication1.csproj|c:\\users\\furkan\\desktop\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C9E05B2-6D17-4F09-A1B7-3956EDC0287B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C9E05B2-6D17-4F09-A1B7-3956EDC0287B}|WebApplication1\\WebApplication1.csproj|c:\\users\\furkan\\desktop\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C9E05B2-6D17-4F09-A1B7-3956EDC0287B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED02BE2-88E4-4035-AF44-70E549B2BD0B}|DataAccess\\DataAccess.csproj|c:\\users\\furkan\\desktop\\webapplication1\\dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED02BE2-88E4-4035-AF44-70E549B2BD0B}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED02BE2-88E4-4035-AF44-70E549B2BD0B}|DataAccess\\DataAccess.csproj|c:\\users\\furkan\\desktop\\webapplication1\\dataaccess\\migrations\\20250504112621_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED02BE2-88E4-4035-AF44-70E549B2BD0B}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20250504112621_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED02BE2-88E4-4035-AF44-70E549B2BD0B}|DataAccess\\DataAccess.csproj|c:\\users\\furkan\\desktop\\webapplication1\\dataaccess\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED02BE2-88E4-4035-AF44-70E549B2BD0B}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A84C47-FAFE-43E4-921D-D59691FB8AE0}|Repositories\\Repositories.csproj|c:\\users\\furkan\\desktop\\webapplication1\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A84C47-FAFE-43E4-921D-D59691FB8AE0}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A84C47-FAFE-43E4-921D-D59691FB8AE0}|Repositories\\Repositories.csproj|c:\\users\\furkan\\desktop\\webapplication1\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A84C47-FAFE-43E4-921D-D59691FB8AE0}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A84C47-FAFE-43E4-921D-D59691FB8AE0}|Repositories\\Repositories.csproj|c:\\users\\furkan\\desktop\\webapplication1\\repositories\\interfaces\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A84C47-FAFE-43E4-921D-D59691FB8AE0}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interfaces\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B63D1B9-576A-43AC-8E90-A3831DC08761}|Entities\\Entities.csproj|c:\\users\\furkan\\desktop\\webapplication1\\entities\\blacklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B63D1B9-576A-43AC-8E90-A3831DC08761}|Entities\\Entities.csproj|solutionrelative:entities\\blacklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B63D1B9-576A-43AC-8E90-A3831DC08761}|Entities\\Entities.csproj|c:\\users\\furkan\\desktop\\webapplication1\\entities\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B63D1B9-576A-43AC-8E90-A3831DC08761}|Entities\\Entities.csproj|solutionrelative:entities\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B63D1B9-576A-43AC-8E90-A3831DC08761}|Entities\\Entities.csproj|c:\\users\\furkan\\desktop\\webapplication1\\entities\\bootcamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B63D1B9-576A-43AC-8E90-A3831DC08761}|Entities\\Entities.csproj|solutionrelative:entities\\bootcamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A84C47-FAFE-43E4-921D-D59691FB8AE0}|Repositories\\Repositories.csproj|c:\\users\\furkan\\desktop\\webapplication1\\repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05A84C47-FAFE-43E4-921D-D59691FB8AE0}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\WebApplication1\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\WebApplication1\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-04T11:30:34.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\WebApplication1\\DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\WebApplication1\\DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:26:29.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250504112621_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\WebApplication1\\DataAccess\\Migrations\\20250504112621_InitialCreate.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20250504112621_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\WebApplication1\\DataAccess\\Migrations\\20250504112621_InitialCreate.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20250504112621_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:26:21.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-04T11:16:09.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:15:53.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\WebApplication1\\Repositories\\Implementations\\Repository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\Repository.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\WebApplication1\\Repositories\\Implementations\\Repository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:04:59.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\WebApplication1\\Repositories\\Interfaces\\IApplicationRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\WebApplication1\\Repositories\\Interfaces\\IApplicationRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IApplicationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:03:33.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\WebApplication1\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\WebApplication1\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:01:11.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Repositories",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\WebApplication1\\Repositories\\Repositories.csproj",
+              "RelativeDocumentMoniker": "Repositories\\Repositories.csproj",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\WebApplication1\\Repositories\\Repositories.csproj",
+              "RelativeToolTip": "Repositories\\Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T11:00:52.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bootcamp.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\WebApplication1\\Entities\\Bootcamp.cs",
+              "RelativeDocumentMoniker": "Entities\\Bootcamp.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\WebApplication1\\Entities\\Bootcamp.cs",
+              "RelativeToolTip": "Entities\\Bootcamp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T10:53:04.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Blacklist.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\WebApplication1\\Entities\\Blacklist.cs",
+              "RelativeDocumentMoniker": "Entities\\Blacklist.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\WebApplication1\\Entities\\Blacklist.cs",
+              "RelativeToolTip": "Entities\\Blacklist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T10:50:41.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\WebApplication1\\Entities\\Application.cs",
+              "RelativeDocumentMoniker": "Entities\\Application.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\WebApplication1\\Entities\\Application.cs",
+              "RelativeToolTip": "Entities\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T10:49:19.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\WebApplication1\\DataAccess\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\WebApplication1\\DataAccess\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DataAccess\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T10:43:21.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
