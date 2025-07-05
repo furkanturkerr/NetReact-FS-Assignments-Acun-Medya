@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KatmanliProje")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0033592385dfc3f03d55e3e351f7d4df9208c80")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b6e2d9c44cb2233be0dfc1719168a565928aca8")]
 [assembly: System.Reflection.AssemblyProductAttribute("KatmanliProje")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KatmanliProje")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

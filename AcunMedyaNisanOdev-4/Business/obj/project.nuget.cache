@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qwU3ZGaX1nc=",
+  "dgSpecHash": "qobQxyCrs+s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Furkan\\Desktop\\Net&React-Full-Stack-odevleri\\Yeni klasör (2)\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\Furkan\\Desktop\\Net&React-Full-Stack-odevleri\\AcunMedyaNisanOdev-4\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Furkan\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\Furkan\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

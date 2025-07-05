@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\Odev\\Mart1\\KatmanliProje\\",
+  "WorkspaceRootPath": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Odev\\Mart1\\KatmanliProje\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06ECD0A2-75C5-4F97-BEFA-DC069F46A491}|Business\\Business.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-\u00F6devleri\\odev\\mart1\\katmanliproje\\business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06ECD0A2-75C5-4F97-BEFA-DC069F46A491}|Business\\Business.csproj|solutionrelative:business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8F04FE4-A1B5-438E-966F-93F0F97B928A}|DataAccess\\DataAccess.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-\u00F6devleri\\odev\\mart1\\katmanliproje\\dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8F04FE4-A1B5-438E-966F-93F0F97B928A}|DataAccess\\DataAccess.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-odevleri\\odev\\mart1\\katmanliproje\\dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8F04FE4-A1B5-438E-966F-93F0F97B928A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0B44BBE-5D85-4379-AB6E-5202D5E6BB80}|Entities\\Entities.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-\u00F6devleri\\odev\\mart1\\katmanliproje\\entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0B44BBE-5D85-4379-AB6E-5202D5E6BB80}|Entities\\Entities.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-odevleri\\odev\\mart1\\katmanliproje\\entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0B44BBE-5D85-4379-AB6E-5202D5E6BB80}|Entities\\Entities.csproj|solutionrelative:entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97BA9DD8-2EF6-460C-B0CD-9A134DE79F83}|KatmanliProje\\KatmanliProje.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-\u00F6devleri\\odev\\mart1\\katmanliproje\\katmanliproje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06ECD0A2-75C5-4F97-BEFA-DC069F46A491}|Business\\Business.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-odevleri\\odev\\mart1\\katmanliproje\\business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06ECD0A2-75C5-4F97-BEFA-DC069F46A491}|Business\\Business.csproj|solutionrelative:business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BA9DD8-2EF6-460C-B0CD-9A134DE79F83}|KatmanliProje\\KatmanliProje.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-odevleri\\odev\\mart1\\katmanliproje\\katmanliproje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97BA9DD8-2EF6-460C-B0CD-9A134DE79F83}|KatmanliProje\\KatmanliProje.csproj|solutionrelative:katmanliproje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,19 +26,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\Odev\\Mart1\\KatmanliProje\\Business\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Odev\\Mart1\\KatmanliProje\\Business\\Class1.cs",
               "RelativeDocumentMoniker": "Business\\Class1.cs",
-              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\Odev\\Mart1\\KatmanliProje\\Business\\Class1.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Odev\\Mart1\\KatmanliProje\\Business\\Class1.cs",
               "RelativeToolTip": "Business\\Class1.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -47,11 +47,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\Odev\\Mart1\\KatmanliProje\\DataAccess\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Odev\\Mart1\\KatmanliProje\\DataAccess\\Class1.cs",
               "RelativeDocumentMoniker": "DataAccess\\Class1.cs",
-              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\Odev\\Mart1\\KatmanliProje\\DataAccess\\Class1.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Odev\\Mart1\\KatmanliProje\\DataAccess\\Class1.cs",
               "RelativeToolTip": "DataAccess\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,11 +60,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\Odev\\Mart1\\KatmanliProje\\Entities\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Odev\\Mart1\\KatmanliProje\\Entities\\Class1.cs",
               "RelativeDocumentMoniker": "Entities\\Class1.cs",
-              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\Odev\\Mart1\\KatmanliProje\\Entities\\Class1.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Odev\\Mart1\\KatmanliProje\\Entities\\Class1.cs",
               "RelativeToolTip": "Entities\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -75,14 +75,13 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\Odev\\Mart1\\KatmanliProje\\KatmanliProje\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Odev\\Mart1\\KatmanliProje\\KatmanliProje\\Program.cs",
               "RelativeDocumentMoniker": "KatmanliProje\\Program.cs",
-              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\Odev\\Mart1\\KatmanliProje\\KatmanliProje\\Program.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Odev\\Mart1\\KatmanliProje\\KatmanliProje\\Program.cs",
               "RelativeToolTip": "KatmanliProje\\Program.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAgwCUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T14:09:28.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T14:09:28.301Z"
             }
           ]
         }

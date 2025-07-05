@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Furkan\\Desktop\\Net&React-Full-Stack-Ödevleri\\Odev\\Mart1\\KatmanliProje\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\Furkan\\Desktop\\Net&React-Full-Stack-odevleri\\Odev\\Mart1\\KatmanliProje\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\Furkan\\Desktop\\Net&React-Full-Stack-Ödevleri\\Odev\\Mart1\\KatmanliProje\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\Furkan\\Desktop\\Net&React-Full-Stack-odevleri\\Odev\\Mart1\\KatmanliProje\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\Furkan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Furkan\\Desktop\\Net&React-Full-Stack-Ödevleri\\Odev\\Mart1\\KatmanliProje\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\Furkan\\Desktop\\Net&React-Full-Stack-odevleri\\Odev\\Mart1\\KatmanliProje\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,8 +51,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -73,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200-preview.0.25057.12/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

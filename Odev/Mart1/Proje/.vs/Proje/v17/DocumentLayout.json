@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\Odev\\Mart1\\Proje\\",
+  "WorkspaceRootPath": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Odev\\Mart1\\Proje\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84416C30-2F55-4445-A75E-97EACA09E306}|DataAccess\\DataAccess.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-\u00F6devleri\\odev\\mart1\\proje\\dataaccess\\programminglanguagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84416C30-2F55-4445-A75E-97EACA09E306}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\programminglanguagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Odev\\Mart1\\Proje\\DataAccess\\ProgrammingLanguageRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccess\\ProgrammingLanguageRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84416C30-2F55-4445-A75E-97EACA09E306}|DataAccess\\DataAccess.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-\u00F6devleri\\odev\\mart1\\proje\\dataaccess\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84416C30-2F55-4445-A75E-97EACA09E306}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78FCFF90-E4DF-4D56-88C3-CCBD89E5F8D9}|Business\\Business.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-\u00F6devleri\\odev\\mart1\\proje\\business\\programminglanguagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78FCFF90-E4DF-4D56-88C3-CCBD89E5F8D9}|Business\\Business.csproj|solutionrelative:business\\programminglanguagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A932335D-EC88-4EA4-B35B-F1EA20602C6B}|Core\\Core.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-\u00F6devleri\\odev\\mart1\\proje\\core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A932335D-EC88-4EA4-B35B-F1EA20602C6B}|Core\\Core.csproj|solutionrelative:core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2495124-1115-4FB2-AD6D-4DD8658D2D7E}|Entities\\Entities.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-\u00F6devleri\\odev\\mart1\\proje\\entities\\programminglanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2495124-1115-4FB2-AD6D-4DD8658D2D7E}|Entities\\Entities.csproj|solutionrelative:entities\\programminglanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2495124-1115-4FB2-AD6D-4DD8658D2D7E}|Entities\\Entities.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-\u00F6devleri\\odev\\mart1\\proje\\entities\\technology.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2495124-1115-4FB2-AD6D-4DD8658D2D7E}|Entities\\Entities.csproj|solutionrelative:entities\\technology.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DB80B91-EB25-4C4A-844C-EE762DE99139}|Proje\\Proje.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-\u00F6devleri\\odev\\mart1\\proje\\proje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DB80B91-EB25-4C4A-844C-EE762DE99139}|Proje\\Proje.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-odevleri\\odev\\mart1\\proje\\proje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DB80B91-EB25-4C4A-844C-EE762DE99139}|Proje\\Proje.csproj|solutionrelative:proje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Odev\\Mart1\\Proje\\Business\\ProgrammingLanguageManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Business\\ProgrammingLanguageManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Odev\\Mart1\\Proje\\DataAccess\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccess\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Odev\\Mart1\\Proje\\Core\\Entities\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Entities\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Odev\\Mart1\\Proje\\Entities\\Technology.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\Technology.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Odev\\Mart1\\Proje\\Entities\\ProgrammingLanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\ProgrammingLanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,41 +38,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ProgrammingLanguageManager.cs",
-              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\Odev\\Mart1\\Proje\\Business\\ProgrammingLanguageManager.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Odev\\Mart1\\Proje\\Business\\ProgrammingLanguageManager.cs",
               "RelativeDocumentMoniker": "Business\\ProgrammingLanguageManager.cs",
-              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\Odev\\Mart1\\Proje\\Business\\ProgrammingLanguageManager.cs*",
-              "RelativeToolTip": "Business\\ProgrammingLanguageManager.cs*",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Odev\\Mart1\\Proje\\Business\\ProgrammingLanguageManager.cs",
+              "RelativeToolTip": "Business\\ProgrammingLanguageManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T14:02:00.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T14:02:00.419Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\Odev\\Mart1\\Proje\\DataAccess\\IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Odev\\Mart1\\Proje\\DataAccess\\IRepository.cs",
               "RelativeDocumentMoniker": "DataAccess\\IRepository.cs",
-              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\Odev\\Mart1\\Proje\\DataAccess\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Odev\\Mart1\\Proje\\DataAccess\\IRepository.cs",
               "RelativeToolTip": "DataAccess\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T13:58:32.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T13:58:32.379Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProgrammingLanguageRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\Odev\\Mart1\\Proje\\DataAccess\\ProgrammingLanguageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Odev\\Mart1\\Proje\\DataAccess\\ProgrammingLanguageRepository.cs",
               "RelativeDocumentMoniker": "DataAccess\\ProgrammingLanguageRepository.cs",
-              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\Odev\\Mart1\\Proje\\DataAccess\\ProgrammingLanguageRepository.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Odev\\Mart1\\Proje\\DataAccess\\ProgrammingLanguageRepository.cs",
               "RelativeToolTip": "DataAccess\\ProgrammingLanguageRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -81,55 +83,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\Odev\\Mart1\\Proje\\Core\\Entities\\BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Odev\\Mart1\\Proje\\Core\\Entities\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Core\\Entities\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\Odev\\Mart1\\Proje\\Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Odev\\Mart1\\Proje\\Core\\Entities\\BaseEntity.cs",
               "RelativeToolTip": "Core\\Entities\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T12:33:50.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T12:33:50.411Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Technology.cs",
-              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\Odev\\Mart1\\Proje\\Entities\\Technology.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Odev\\Mart1\\Proje\\Entities\\Technology.cs",
               "RelativeDocumentMoniker": "Entities\\Technology.cs",
-              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\Odev\\Mart1\\Proje\\Entities\\Technology.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Odev\\Mart1\\Proje\\Entities\\Technology.cs",
               "RelativeToolTip": "Entities\\Technology.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T12:22:24.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProgrammingLanguage.cs",
-              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\Odev\\Mart1\\Proje\\Entities\\ProgrammingLanguage.cs",
-              "RelativeDocumentMoniker": "Entities\\ProgrammingLanguage.cs",
-              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\Odev\\Mart1\\Proje\\Entities\\ProgrammingLanguage.cs*",
-              "RelativeToolTip": "Entities\\ProgrammingLanguage.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T12:20:57.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T12:22:24.364Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "ProgrammingLanguage.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Odev\\Mart1\\Proje\\Entities\\ProgrammingLanguage.cs",
+              "RelativeDocumentMoniker": "Entities\\ProgrammingLanguage.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Odev\\Mart1\\Proje\\Entities\\ProgrammingLanguage.cs",
+              "RelativeToolTip": "Entities\\ProgrammingLanguage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T12:20:57.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\Odev\\Mart1\\Proje\\Proje\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Odev\\Mart1\\Proje\\Proje\\Program.cs",
               "RelativeDocumentMoniker": "Proje\\Program.cs",
-              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-\u00D6devleri\\Odev\\Mart1\\Proje\\Proje\\Program.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Odev\\Mart1\\Proje\\Proje\\Program.cs",
               "RelativeToolTip": "Proje\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T12:02:02.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T12:02:02.734Z"
             }
           ]
         }

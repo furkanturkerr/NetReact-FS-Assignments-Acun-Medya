@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k9cbBWIw540=",
+  "dgSpecHash": "4M2bxvA63+w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Furkan\\Desktop\\Net&React-Full-Stack-odevleri\\Yeni klasör (2)\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\Furkan\\Desktop\\Net&React-Full-Stack-odevleri\\AcunMedyaNisanOdev-4\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Furkan\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.4\\microsoft.entityframeworkcore.9.0.4.nupkg.sha512",
     "C:\\Users\\Furkan\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.4\\microsoft.entityframeworkcore.abstractions.9.0.4.nupkg.sha512",

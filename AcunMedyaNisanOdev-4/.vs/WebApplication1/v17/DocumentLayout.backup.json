@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Yeni klas\u00F6r (2)\\",
+  "WorkspaceRootPath": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\AcunMedyaNisanOdev-4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05A84C47-FAFE-43E4-921D-D59691FB8AE0}|Repositories\\Repositories.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-odevleri\\yeni klas\u00F6r (2)\\repositories\\interfaces\\iblacklistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05A84C47-FAFE-43E4-921D-D59691FB8AE0}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interfaces\\iblacklistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1ED02BE2-88E4-4035-AF44-70E549B2BD0B}|DataAccess\\DataAccess.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-odevleri\\acunmedyanisanodev-4\\dataaccess\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED02BE2-88E4-4035-AF44-70E549B2BD0B}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05A84C47-FAFE-43E4-921D-D59691FB8AE0}|Repositories\\Repositories.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-odevleri\\yeni klas\u00F6r (2)\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05A84C47-FAFE-43E4-921D-D59691FB8AE0}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C9E05B2-6D17-4F09-A1B7-3956EDC0287B}|WebApplication1\\WebApplication1.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-odevleri\\acunmedyanisanodev-4\\webapplication1\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C9E05B2-6D17-4F09-A1B7-3956EDC0287B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A84C47-FAFE-43E4-921D-D59691FB8AE0}|Repositories\\Repositories.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-odevleri\\acunmedyanisanodev-4\\repositories\\implementations\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A84C47-FAFE-43E4-921D-D59691FB8AE0}|Repositories\\Repositories.csproj|solutionrelative:repositories\\implementations\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A84C47-FAFE-43E4-921D-D59691FB8AE0}|Repositories\\Repositories.csproj|c:\\users\\furkan\\desktop\\net\u0026react-full-stack-odevleri\\acunmedyanisanodev-4\\repositories\\interfaces\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A84C47-FAFE-43E4-921D-D59691FB8AE0}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interfaces\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,27 +35,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Yeni klas\u00F6r (2)\\Repositories\\Implementations\\Repository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Implementations\\Repository.cs",
-              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Yeni klas\u00F6r (2)\\Repositories\\Implementations\\Repository.cs",
-              "RelativeToolTip": "Repositories\\Implementations\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Title": "ApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\AcunMedyaNisanOdev-4\\WebApplication1\\Controllers\\ApplicationController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ApplicationController.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\AcunMedyaNisanOdev-4\\WebApplication1\\Controllers\\ApplicationController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ApplicationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T19:21:51.393Z",
+              "WhenOpened": "2025-05-15T22:52:50.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\AcunMedyaNisanOdev-4\\Repositories\\Implementations\\ApplicationRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\ApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\AcunMedyaNisanOdev-4\\Repositories\\Implementations\\ApplicationRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\ApplicationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T22:52:27.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IApplicationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\AcunMedyaNisanOdev-4\\Repositories\\Interfaces\\IApplicationRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IApplicationRepository.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\AcunMedyaNisanOdev-4\\Repositories\\Interfaces\\IApplicationRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IApplicationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T22:52:01.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IBlacklistRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Yeni klas\u00F6r (2)\\Repositories\\Interfaces\\IBlacklistRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IBlacklistRepository.cs",
-              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\Yeni klas\u00F6r (2)\\Repositories\\Interfaces\\IBlacklistRepository.cs",
-              "RelativeToolTip": "Repositories\\Interfaces\\IBlacklistRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\AcunMedyaNisanOdev-4\\DataAccess\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Furkan\\Desktop\\Net\u0026React-Full-Stack-odevleri\\AcunMedyaNisanOdev-4\\DataAccess\\Context\\ApplicationDbContext.cs*",
+              "RelativeToolTip": "DataAccess\\Context\\ApplicationDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T19:21:35.52Z",
+              "WhenOpened": "2025-05-15T22:50:52.82Z",
               "EditorCaption": ""
             }
           ]
